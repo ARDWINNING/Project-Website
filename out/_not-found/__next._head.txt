@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[42949,["/_next/static/chunks/c154648ed655f522.js","/_next/static/chunks/674a00bf7edf8a77.js"],"ViewportBoundary"]
+4:I[42949,["/_next/static/chunks/c154648ed655f522.js","/_next/static/chunks/674a00bf7edf8a77.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[58387,["/_next/static/chunks/c154648ed655f522.js","/_next/static/chunks/674a00bf7edf8a77.js"],"IconMark"]
+0:{"buildId":"gUqRtUQooqy9Be1nwRC-J","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Alexander Winning Portfolio"}],["$","meta","1",{"name":"description","content":"Portfolio showcasing my data structures, algorithms, and systems programming projects in C++, Python, and ARM Assembly"}],["$","link","2",{"rel":"icon","href":"/icon.svg","type":"image/svg+xml"}],["$","link","3",{"rel":"apple-touch-icon","href":"/apple-icon.png"}],["$","$L7","4",{}]]
