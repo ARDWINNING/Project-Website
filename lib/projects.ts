@@ -35,7 +35,7 @@ export const cppProjects: Project[] = [
     tags: ["C++", "Algorithm", "Graph Theory"],
     category: "Implementation",
     icon: "📊",
-    githubUrl: "https://github.com/ARDWINNING/",
+    githubUrl: "https://github.com/ARDWINNING/PageRank",
   },
   {
     title: "Road Trip Planner",
