@@ -13,11 +13,11 @@ export const cppProjects: Project[] = [
   {
     title: "Memory Allocator",
     description:
-      "Custom heap memory allocator implementing malloc/free with best-fit strategy. Features coalescing and memory pool management.",
+      "A word-based memory allocator using linked lists and best or worst fit allocation. Optionally outputs bitmaps and maps to visualise current memory usage.",
     tags: ["C++", "Systems", "Memory Management"],
     category: "Utility",
     icon: "🧠",
-    githubUrl: "https://github.com/ARDWINNING/",
+    githubUrl: "https://github.com/ARDWINNING/Memory-Manager",
   },
   {
     title: "Minesweeper",
@@ -40,20 +40,20 @@ export const cppProjects: Project[] = [
   {
     title: "Road Trip Planner",
     description:
-      "Dijkstra's shortest path algorithm for optimal route planning. Features graph representation and priority queue optimization.",
-    tags: ["C++", "Graphs", "Pathfinding"],
+      "A route trip planner across a contiguous area. Takes a dataset, start and ending coords in and using KD Trees and Dijstra's it outputs an itinerary.",
+    tags: ["C++", "Trees", "Pathfinding"],
     category: "Application",
     icon: "🗺️",
-    githubUrl: "https://github.com/ARDWINNING/",
+    githubUrl: "https://github.com/ARDWINNING/Road-Trip-Planner",
   },
   {
     title: "WAD Filesystem",
     description:
-      "File system implementation based on Doom WAD format. Virtual filesystem with directory management and file I/O operations.",
+      "Implementation of a WAD filesystem and a FUSE daemon. These facilitate WADFS file operations, such as read, create, write, mkdir and getattr.",
     tags: ["C++", "FUSE", "File I/O"],
     category: "Utility",
     icon: "📁",
-    githubUrl: "https://github.com/ARDWINNING/",
+    githubUrl: "https://github.com/ARDWINNING/WAD-Filesystem",
   },
 ]
 

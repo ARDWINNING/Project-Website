@@ -9,13 +9,6 @@ export function InProgress() {
     <section className="bg-muted/30 px-4 py-20">
       <div className="mx-auto max-w-7xl">
         <div className="mb-16 text-center">
-          <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/10 px-4 py-2 text-sm font-medium text-primary">
-            <span className="relative flex h-2 w-2">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-primary opacity-75"></span>
-              <span className="relative inline-flex h-2 w-2 rounded-full bg-primary"></span>
-            </span>
-            In Progress
-          </div>
           <h2 className="mb-4 text-balance font-sans text-4xl font-bold tracking-tight md:text-5xl">Current Work</h2>
           <p className="text-pretty text-lg text-muted-foreground">{"Projects currently in active development"}</p>
         </div>
